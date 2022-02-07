@@ -1,0 +1,5 @@
+<div className="main-banner">
+      <span className="login-img-capa">
+      <img src={Imglogocapa} alt="logoico" />
+      </span>
+      </div>
